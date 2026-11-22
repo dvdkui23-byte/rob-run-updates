@@ -1,8 +1,8 @@
 {
   "payload": {
-    "version": "3.4.2",
-    "url": "https://github.com/dvdkui23-byte/rob-run-updates/releases/download/v3.4.2/rob_run_analyzer_3.4.2.zip",
-    "sha256": "a0e7f06671a01ac25b690703e98545d6b338fbb7b352d5f210b105260cf727f6"
+    "version": "3.5.0",
+    "url": "https://github.com/dvdkui23-byte/rob-run-updates/releases/download/v3.5.0/rob_run_analyzer_3.5.0.zip",
+    "sha256": "57239a50a77bbe90524ba894e74a6c6e64e34cd40cda7c54b982cf45dcc30db4"
   },
-  "signature": "Av2yJ6zetskcLhiS0kooiA/81zpt9S0HOoxZY8SW+M0dueh/u/vLT8+ZMNWSE03HPd3kxZw6i09UvgVlfxYoDQ=="
+  "signature": "HlxK/ld/IojinpzWHyij+jQoliVCn5qM9S1IaKR66mUKnocWGz4T80XcpE9xKifggtpNkxFiwwp8UUTDoZsDCg=="
 }
